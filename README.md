@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Role-Based Task Manager 🚀
 
 **Developed by: Aman Varma**
@@ -92,3 +93,6 @@ If you want to run the full stack with PostgreSQL and Redis.
 
 ---
 *Created with ❤️ by Aman Varma*
+=======
+# Role-Based-Task-Manager
+>>>>>>> f18a278bc3f75f89132b5b21f954bdbd724e6fea
